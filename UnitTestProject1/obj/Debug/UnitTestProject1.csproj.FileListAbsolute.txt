@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\UnitTestProject1\bin\Debug\simpleregistration.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\UnitTestProject1\bin\Debug\simpleregistration.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
