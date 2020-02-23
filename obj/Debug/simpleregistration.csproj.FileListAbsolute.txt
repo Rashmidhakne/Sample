@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\simpleregistration\bin\simpleregistration.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\simpleregistration\bin\simpleregistration.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\simpleregistration\bin\simpleregistration.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\simpleregistration\obj\Debug\simpleregistration.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\simpleregistration\obj\Debug\simpleregistration.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\simpleregistration\simpleregistration\obj\Debug\simpleregistration.pdb
